@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-   <h3>💻 Davide Carpini | ⌨️ Full Stack Developer | 🇮🇹 Italy</h3>
+   <h3>💻 Davide Carpini | ⌨️ Full-Stack Developer | 🇮🇹 Italy</h3>
 </div>
 
 <picture>
